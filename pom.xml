@@ -1,16 +1,37 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>hint.package</groupId>
 	<artifactId>maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>15</source>
+					<target>15</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	
+	<packaging>jar</packaging>
+	
 	<name>MavenPackage</name>
 	<description>A maven package to ease off the usage of Arrays in Java.</description>
+	<url>http://maven.apache.org</url>
+
 	<properties>
-		<maven.compiler.source>15</maven.compiler.source>
-		<maven.compiler.target>15</maven.compiler.target>
+		<!-- <maven.compiler.source>15</maven.compiler.source> -->
+		<!-- <maven.compiler.target>15</maven.compiler.target> -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
