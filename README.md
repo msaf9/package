@@ -1,6 +1,7 @@
 # Package
 Library published to Maven Central with OSSRH.
 
+[![CI](https://github.com/msaf9/package/actions/workflows/main.yml/badge.svg)](https://github.com/msaf9/package/actions/workflows/main.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package)
 
 ## Table of contents
