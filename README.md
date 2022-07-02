@@ -4,12 +4,17 @@ Library published to Maven Central with OSSRH.
 [![CI](https://github.com/msaf9/package/actions/workflows/main.yml/badge.svg)](https://github.com/msaf9/package/actions/workflows/main.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package)
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Package](#package)
+  - [Introduction](#introduction)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+    - [URLs](#urls)
+    - [Use](#use)
+      - [Maven usage](#maven-usage)
+      - [Gradle usage](#gradle-usage)
+  - [License](#license)
 
 ## Introduction
 A maven project to ease off the usage of Arrays.
