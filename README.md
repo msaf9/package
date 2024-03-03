@@ -1,10 +1,11 @@
 <h1> Package </h1>
-Library published to Maven Central with OSSRH.
 
 [![CI](https://github.com/msaf9/package/actions/workflows/main.yml/badge.svg)](https://github.com/msaf9/package/actions/workflows/main.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package)
 
-<h2>Table of content</h2>
+Library published to Maven Central with OSSRH.
+
+<h2>Table of contents</h2>
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
