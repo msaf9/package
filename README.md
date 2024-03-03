@@ -4,6 +4,8 @@ Library published to Maven Central with OSSRH.
 [![CI](https://github.com/msaf9/package/actions/workflows/main.yml/badge.svg)](https://github.com/msaf9/package/actions/workflows/main.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.msaf9/package)
 
+<h2>Table of content</h2>
+
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Project status](#project-status)
