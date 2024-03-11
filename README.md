@@ -8,7 +8,7 @@ Library published to Maven Central with OSSRH.
 <h2>Table of contents</h2>
 
 - [Introduction](#introduction)
-- [Technologies](#technologies)
+- [Technology Stack](#technology-stack)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -22,7 +22,7 @@ Library published to Maven Central with OSSRH.
 
 A maven project to ease off the usage of Arrays.
 
-## Technologies
+## Technology Stack
 
 - Java
 - Maven
